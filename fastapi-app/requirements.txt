@@ -1,0 +1,13 @@
+fastapi[standard]
+pydantic-settings
+sqlalchemy[asyncio]>=2.0.0
+aiomysql
+cryptography
+PyJWT==2.13.0
+alembic
+bcrypt
+tzdata
+cloudinary>=1.36.0
+google-genai>=2.30.1
+
+

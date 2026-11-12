@@ -1,0 +1,4 @@
+/* TODO: định nghĩa biến màu sắc, spacing, font-size dùng chung (design tokens) */
+:root {
+  --color-primary: #000;
+}

@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.env
+alembic.log
+.agents/
+app/data/embeddings_cache.json
+CVS/
+.svn/
+.hg/
